@@ -1,0 +1,13 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+    min-height: 90dvh;
+}
+
+a {
+    text-decoration: none !important;
+}
